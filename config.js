@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Dodo',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Code Panel',
+			icon: 'code',
+			link: 'https://github.dev/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Discord',
+			icon: 'message-square',
+			link: 'https://discord.com/app',
 		},
 		{
 			id: '5',
@@ -104,15 +104,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'clipChamp',
+			icon: 'video',
+			link: 'https://clipchamp.com/en/video-editor',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Canva',
+			icon: 'paintbrush',
+			link: 'https://www.canva.com/',
 		},
 		{
 			id: '5',
