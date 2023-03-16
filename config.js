@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -105,7 +105,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'clipChamp',
-			icon: 'video',
+			icon: 'clapperboard',
 			link: 'https://clipchamp.com/en/video-editor',
 		},
 		{
@@ -116,15 +116,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'gameJolt',
+			icon: 'gamepad',
+			link: 'https://gamejolt.com/',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'Odysee',
+			icon: 'video',
+			link: 'https://odysee.com/',
 		},
 	],
 
